@@ -32,7 +32,7 @@ A modern, AI-powered **Realtime Expense Tracker** built using **SwiftUI**. Desig
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your-username/xca-ai-expense-tracker.git
+   git clone https://github.com/AdvayKankaria/TrackWise
    ```
 
 2. **Open in Xcode**  
