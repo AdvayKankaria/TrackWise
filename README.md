@@ -1,5 +1,5 @@
 
-# 💸 XCA AI Expense Tracker (SwiftUI)
+# 💸AI Expense Tracker (SwiftUI)
 
 A modern, AI-powered **Realtime Expense Tracker** built using **SwiftUI**. Designed to be your intelligent financial assistant across iOS, iPadOS, macOS, and even visionOS.
 
