@@ -1,9 +1,3 @@
-//
-//  AIAssistantVoiceChatViewModel.swift
-//  AIExpenseTracker
-//
-//  Created by Alfian Losari on 09/06/24.
-//
 
 import ChatGPTUI
 import Foundation

@@ -1,9 +1,4 @@
-//
-//  AIAssistantTextChatViewModel.swift
-//  AIExpenseTracker
-//
-//  Created by Alfian Losari on 09/06/24.
-//
+
 
 import ChatGPTSwift
 import ChatGPTUI

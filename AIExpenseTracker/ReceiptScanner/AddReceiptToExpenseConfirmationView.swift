@@ -1,9 +1,3 @@
-//
-//  AddReceiptToExpenseConfirmationView.swift
-//  AIExpenseTracker
-//
-//  Created by Alfian Losari on 07/07/24.
-//
 
 import SwiftUI
 
