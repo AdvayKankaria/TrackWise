@@ -1,9 +1,4 @@
-//
-//  LogListView.swift
-//  AIExpenseTracker
-//
-//  Created by Alfian Losari on 09/05/24.
-//
+
 
 import FirebaseFirestore
 import SwiftUI
